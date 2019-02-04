@@ -4,8 +4,8 @@ This extension gives you the ability to easily add CRUD (Create Read Update Dele
 ## Installation
 The extension can be installed via Composer.
 
-### Adding the repository
-Add this repository in your composer.json file, like this:
+### Adding the repositories
+Add these repositories in your composer.json file, like this:
 ```
 "repositories": [
     {
@@ -18,9 +18,10 @@ Add this repository in your composer.json file, like this:
     }
 ],
 ```
-### Adding dependency
-Add an entry for the extension in the require section in your composer.json:
+### Adding dependencies
+Add entries for the extension in the require section in your composer.json:
 ```
+"h3tech/yii2-crud": "dev-rework",
 "h3tech/yii2-translatable-crud": "dev-master"
 ```
 After this, you can execute `composer update` in your project directory to install the extension.
