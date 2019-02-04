@@ -27,7 +27,7 @@
       "homepage": "https://github.com/gyula-szabo"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "repositories": [
     {
       "type": "vcs",
