@@ -1,0 +1,37 @@
+{
+  "name": "h3tech/yii2-translatable-crud",
+  "type": "yii2-extension",
+  "description": "An easy to use CRUD extension with translation support for Yii",
+  "homepage": "https://github.com/H3Tech/yii2-translatable-crud",
+  "keywords": [
+    "yii2",
+    "extension",
+    "crud",
+    "i18n",
+    "translations"
+  ],
+  "license": "MIT",
+  "require": {
+    "h3tech/yii2-crud": "~14.0",
+    "yii2tech/ar-variation": "~1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "h3tech\\translatable-crud\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Gyula Szabó",
+      "email": "gt.szgyula@gmail.com",
+      "homepage": "https://github.com/gyula-szabo"
+    }
+  ],
+  "minimum-stability": "stable",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/H3Tech/yii2-crud"
+    }
+  ]
+}
