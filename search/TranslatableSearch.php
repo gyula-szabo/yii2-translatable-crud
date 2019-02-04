@@ -66,8 +66,6 @@ class TranslatableSearch extends SearchModel
                 'desc' => [$sortExpression => SORT_DESC],
             ];
         }
-
-        echo $dataProvider->query->createCommand()->rawSql;die();
     }
 
     public function rules()
