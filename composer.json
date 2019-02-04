@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "h3tech\\translatable-crud\\": ""
+      "h3tech\\translatableCrud\\": ""
     }
   },
   "authors": [
