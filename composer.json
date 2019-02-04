@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "require": {
-    "h3tech/yii2-crud": "rework@dev",
+    "h3tech/yii2-crud": "dev-rework",
     "yii2tech/ar-variation": "~1.0"
   },
   "autoload": {
