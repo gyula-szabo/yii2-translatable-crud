@@ -10,7 +10,11 @@ Add this repository in your composer.json file, like this:
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/H3Tech/yii2-translatable-crud"
+        "url": "https://github.com/H3Tech/yii2-crud"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/gyula-szabo/yii2-translatable-crud"
     }
 ],
 ```
